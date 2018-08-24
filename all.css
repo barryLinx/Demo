@@ -1,0 +1,44 @@
+
+.header {
+  padding-top: 90px;
+  padding-bottom: 120px;
+  background-image: url(/images/the-urban-landscape-1698285.png);
+  background-size: cover;
+  background-position: center center;
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+}
+
+.btn-MediumSeaGreen{
+  background-color:MediumSeaGreen;
+  color: #fff;
+  font-size: 18px;
+
+}
+
+.btn-SlateBlue{
+  background-color:SlateBlue;
+  color: #fff;
+  font-size: 18px;
+}
+
+.btn-Tomato{
+  background-color:Tomato;
+  color: #fff;
+  font-size: 18px;
+}
+
+.btn-Violet{
+  background-color:Violet;
+  color: #fff;
+  font-size: 18px;
+}
+
+.btn-DodgerBlue{
+  background-color:DodgerBlue;
+  color: #fff;
+  font-size: 18px;
+}
